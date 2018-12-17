@@ -6,9 +6,13 @@ function getResult(){
         alert("This is an equilateral triangle");
         window.location.href="equilateral.html";
     }
-    else if(number1===number2 || number1===number3 || number2===number3){
+    else if(number1===number2 || number2===number3){
         alert("This is an isosceles triangle");
         window.location.href="isoscele.html";
+    }
+    else if((number1+number2) <= number3 || (number1+number3) <= number2 || (number2+number3) <= number3)
+    {
+        alert("This is an undefinite triangle");
     }
     else {
         alert("This is a scalene triangle");
