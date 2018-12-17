@@ -10,7 +10,10 @@ function getResult(){
         alert("This is an isosceles triangle");
         window.location.href="isoscele.html";
     }
-    
+    else {
+        alert("This is a scalene triangle");
+        window.location.href="scalene.html";
+    }
 }
 
 
