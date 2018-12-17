@@ -1,12 +1,14 @@
-*{
+body{
     background-color: honeydew;
    text-align: center;
 font-style: oblique;
 }
 #action {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: 300;
-    box-shadow: 0px 0px 2px black;
+    font-weight: 500;
+    box-shadow: 1px 1px 2px black;
+    background-color: black;
+    color: ghostwhite;
     
 }
 #isosceles{
