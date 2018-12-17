@@ -12,22 +12,23 @@ font-style: oblique;
 #isosceles{
     width: 0%;
     border-right: 70px solid transparent;
-    border-bottom: 100px solid blue;
+    border-bottom: 100px solid #1B2613;
     border-left: 70px solid transparent;
 }
 #scalene{
     width: 0%;
     border-right: 130px solid transparent;
-    border-bottom: 120px solid rgb(26, 29, 1);
+    border-bottom: 120px solid #1B2613;
     border-left: 100px solid transparent;
 }
 #equilateral{
     width: 0%;
     border-right: 100px solid transparent;
-    border-bottom: 100px solid rgb(24, 2, 9);
+    border-bottom: 100px solid #1B2613;
     border-left: 100px solid transparent;
 }
 a{
-    box-shadow:black:
-    border-radius: 0%;
+    border-color:black;
+    text-transform: capitalize;
+    text-decoration-line: none;
 }

@@ -1,13 +1,16 @@
 # Triangle-tracker
 #### by **UWABIKIRAMARIYA Roselyne**
 ## Description
-This traingle tracker shows the different types of traingles, their definitions and the differences between one and another. It does also demonstrate however you enter  values, the alert displays which type of triangle it is.
+This traingle tracker website shows the different types of traingles, their definitions and the differences between one and another. It does also demonstrate however you enter  values, the alert displays which type of triangle it is.
 These include the condtions that are applied to give more explanations about what is really happening when a user enter triangle values in the input boxes. 14th December 2018.
 ## Setup/Installation Requirements
 * Ubuntu oparating system
 * Visual studio code
 * Github
 * Google chrome to display webpages
+## BDD
+This Triangle tracker website has three input values that i have called dimensions, and one button. 
+when you enter 3 values as asked and click on button "Result", the first thing that will happen there is an alert message that teels you the type of triangle it is, after clicking "OK" there come the tringle itself.
 
 These above, are the tools that i use to acheive my desires during this class, at WeCode moringa school
 ## Technologies Used
