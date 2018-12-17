@@ -8,14 +8,11 @@ These include the condtions that are applied to give more explanations about wha
 * Visual studio code
 * Github
 * Google chrome to display webpages
-## BDD
-This Triangle tracker website has three input values that i have called dimensions, and one button. 
-when you enter three values as asked and click on button "Result", the first thing that will happen there is an alert message that tells you the type of triangle it is, after clicking "OK" there come the triangle itself.
 
 These above, are the tools that i use to acheive my desires during this class, at WeCode moringa school
 ## BDD
 This Triangle tracker website has three input values that i have called dimensions, and one button. 
-when you enter 3 values as asked and click on button "Result", the first thing that will happen there is an alert message that teels you the type of triangle it is, after clicking "OK" there come th
+when you enter three values as asked and click on button "Result", the first thing that will happen there is an alert message that tells you the type of triangle it is, after clicking "OK" there come the triangle itself.
 ## Technologies Used
 1. HTML5
 2. CSS
