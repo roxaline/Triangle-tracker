@@ -1,6 +1,6 @@
 *{
     background-color: honeydew;
-    text-align: center;
+   text-align: center;
 font-style: oblique;
 }
 #action {
@@ -26,4 +26,8 @@ font-style: oblique;
     border-right: 100px solid transparent;
     border-bottom: 100px solid rgb(24, 2, 9);
     border-left: 100px solid transparent;
+}
+a{
+    box-shadow:black:
+    border-radius: 0%;
 }
